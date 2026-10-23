@@ -1,0 +1,9 @@
+[package]
+name = "pico-compiler"       # O nome do seu executável/projeto
+version = "0.1.0"            # A versão atual do seu compilador
+edition = "2021"            
+authors = ["Seu Nome <seu_email@exemplo.com>"] 
+description = "Um transpilador simples de .pico para .js feito em Rust" 
+
+[dependencies]
+
